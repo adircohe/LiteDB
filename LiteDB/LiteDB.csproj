@@ -3,9 +3,9 @@
   <PropertyGroup>
     <TargetFrameworks>net35;net40;netstandard1.3;netstandard2.0</TargetFrameworks>
     <PackageId>LiteDB</PackageId>
-    <Version>4.1.4</Version>
-    <AssemblyVersion>4.1.4.0</AssemblyVersion>
-    <FileVersion>4.1.4</FileVersion>
+    <Version>4.1.4.1</Version>
+    <AssemblyVersion>4.1.4.1</AssemblyVersion>
+    <FileVersion>4.1.4.1</FileVersion>
     <VersionPrefix>4.1.4</VersionPrefix>
     <Authors>Maurício David</Authors>
     <Product>LiteDB</Product>

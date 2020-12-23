@@ -22,7 +22,7 @@ namespace LiteDB
     /// </summary>
     public partial class BsonMapper
     {
-        private const int MAX_DEPTH = 20;
+        public int MaxDepth { get; set; } = 70;
 
         #region Properties
 
